@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Poppins", sans-serif; 
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+}
+
+
+.header-area{
+    background-color: antiquewhite;
+}
+
+.header-area-start{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-area-menu ul{
+    display: flex;
+}
+
+.header-area-menu ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+.header-area-menu ul li a{
+    text-decoration: none;
+}
+
+.bannar-img{
+    background-image: url("image/empower-yourseif/empower-yourseif.png");
+    height: 616px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bannar-area-start{
+    text-align: center;
+    width: 1440px;
+    height: 616px;
+    gap: 0px;
+    font-size: 20px;
+    color: ivory;
+   
+}
+.bannar-button{
+    padding: 30px 60px;
+}
+
+
+/* About the principal start */
+
+.about-the-principal{
+    display: flex;
+    padding: 70px 0 50px 0;
+}
+
+.about-the-principal-text-area{
+    margin-left: 40px;
+    font-size: 20px;
+}
+.about-the-principal-text-area button{
+    width: 338px;
+    background-color: greenyellow;
+    border: none;
+    height: 50px;
+    border-radius: 10px;
+    color: #ffff;
+}
+/* About the principal End */
+
+#want-to-change{
+    display: flex;
+    width: 1440px;
+    height: 927px;
+    top: 1574px;
+    background: #a1ddd0;
+    height: 667px;
+}
+
+.want-to-change-text{
+    text-align: center;
+}
+.want-to-change-input input{
+    width: 60%;
+    height: 73px;
+    margin-top: 10px;
+}
+
+.want-to-change-button{
+    width: 20%;
+    height: 73px;
+    margin-top: 10px;
+}
+
+.Services{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.Services-pragraph{
+    margin-top: 29px;
+    margin-bottom: 64px;
+}
+
+.Services-text{
+    text-align: center;
+}
+
+.Services-photo{
+    border-radius: 50%;
+    width: 314px;
+}
+.Services-para{
+    margin-left: 120px;
+    margin-top: 43px;
+}
+
+.button{
+    width: Fixed (262px)px;
+    height: Fixed (53px)px;
+    top: 3277px;
+    left: 588px;
+    padding: 10px 0px 0px 0px;
+    gap: 10px;
+    opacity: 0px;
+    margin-left: 600px;
+    margin-top: 109px;
+    padding: 30px 60px;
+
+}
+
+
+#our-philosophy{
+    display: flex;
+    margin-top: 144px;
+}
+.our-philosophy-img{
+    width: 736px;
+    height: 734px;
+}
+
+    
+
+.our-philosophy-text-area{
+    margin-left: 40px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+#our-philosophy-under{
+    display: flex;
+}
+
+.our-philosophy-under-text-area{
+    margin-left: 40px;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.button-two{
+    color: #000;
+    background-color: white;
+    margin-left: 197px;
+    margin-top: 73px;
+    padding: 25px 80px;
+    
+}
+
+.End{
+    font-size: 90px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.footer-area-start{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-area-menu ul{
+    display: flex;
+}
+.footer-area-menu ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+
+.footer-area-menu ul li a{
+    text-decoration: none;
+}
+
